@@ -25,3 +25,9 @@ Panels — Output, debugging info, error 등을 보거나 terminal을 사용할 
 Status Bar — 프로젝트나 파일에 대한 정보(언어, 인코딩, 공백 등등)를 제공
 
 Minimap — 코드의 전체적인 아웃 라인을 보여 주고 파일의 원하는 위치로 쉽게 이동할 수 있다.
+
+
+Command Palette (cmd + shift + p) 을 이용하여 지원하는 명령을 칠 수 있다. 
+git init   
+git clone   
+git commit    
