@@ -8,6 +8,7 @@ Visual Studio Code
 Extension 기능으로 여러가지 것들을 할 수 있다.    
 무료이다    
 MS에서 관리를 잘 해준다. 
+가벼우면서 많은 기능이 있다. 
 
 
 ![image2](https://miro.medium.com/max/1400/1*vA910MfJubsBHvdRbFsXBA.png)
@@ -38,3 +39,5 @@ git commit
 cmd + =                     # Zoom in   
 cmd + -                     # Zoom out   
 cmd + shift + v             # Markdown preivew   
+cmd + shift + l             # 선택한 단어 모두 선택   
+option + shift + f          # 코드 자동 재정렬
