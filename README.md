@@ -31,3 +31,10 @@ Command Palette (cmd + shift + p) 을 이용하여 지원하는 명령을 칠 �
 git init   
 git clone   
 git commit    
+
+
+
+
+cmd + =                     # Zoom in   
+cmd + -                     # Zoom out   
+cmd + shift + v             # Markdown preivew   
